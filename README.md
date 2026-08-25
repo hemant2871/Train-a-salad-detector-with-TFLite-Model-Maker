@@ -163,17 +163,6 @@ TensorFlow Lite Model Maker simplifies the process of retraining models with cus
 
 ---
 
-## 🏆 Google Developer Badge
-
-<a href="https://developers.google.com/profile/badges/recognitions/learnings?u=112161493530830139616">
-  <img src="https://img.shields.io/badge/Google%20Developer-Learning%20Badge-4285F4?logo=google&logoColor=white" alt="Google Developer Learning Badge">
-</a>
-
-🔗 **Verify Badge:**
-https://developers.google.com/profile/badges/recognitions/learnings?u=112161493530830139616
-
----
-
 ## 👨‍💻 Author
 
 **Hemant Sharma**
